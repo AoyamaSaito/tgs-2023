@@ -1,6 +1,6 @@
 name: Run EditMode and PlayMode Test
 on:
-  workflow_dispatchs: {}
+  workflow_dispatch: {}
 jobs:
   test:
     name: Run EditMode and PlayMode Test
