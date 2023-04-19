@@ -5,8 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/DistanceGrab.unity
+    guid: 24f58b3f0ca02d44eaec7f50bca538f2
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a7a850dad96d1b14aae49bb7bda57129, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d3bfa7e2108b09240b23739d5d07258a, type: 2}
